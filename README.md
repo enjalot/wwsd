@@ -9,23 +9,8 @@ We will explore three basic data types with these files:
 ## World map
 [Data files](data/world)
 
-# London (UK)
-## Administrative districts
-UK boundaries (Local Authority Districts)
-http://martinjc.github.io/UK-GeoJSON/
-https://github.com/martinjc/UK-GeoJSON/tree/master/json/administrative/eng (geojson and topojson)
+## USA
+[Data files](data/usa)
 
-not straightforward
-https://en.wikipedia.org/wiki/Subdivisions_of_England
-http://gis.stackexchange.com/questions/132105/where-could-i-find-geojson-data-for-all-counties-of-the-uk
-
-## Rivers
-
-
-# San Francisco (USA)
-
-## States
-
-## Counties
-
-## Rivers
+## UK
+[Data files](data/uk)
