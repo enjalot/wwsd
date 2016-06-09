@@ -10,7 +10,7 @@ We will explore three basic data types with these files:
 [Data files](data/world)
 
 ## USA
-[Data files](data/usa)
+[Data files](data/USA)
 
 ## UK
-[Data files](data/uk)
+[Data files](data/UK)
