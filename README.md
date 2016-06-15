@@ -7,25 +7,25 @@ or what kind it is. To help you develop the confidence to tackle spatial data
 from anywhere in the world we will repeat the following refrain throughout each
 act:
 
-*a) Inspect the data*  
+**a) Inspect the data**  
 We will go over how to orient ourselves and the data and how to read
 GeoJSON/TopoJSON before we try to make the computer read it.  
-*b) Get something on screen*  
+**b) Get something on screen**  
 After we know the basics about our data we can put it on the screen in the form
 of a simple map. Depending on what we want to do with it we may choose different
 tools as starting points. You will have a better sense of which tools and how to
 choose them after completing all three acts.  
-*c) Line things up*  
+**c) Line things up**  
 One of the major concepts in cartography is that of Layers. This concept can be
 extended in various ways when making data-driven maps. We will practice several
 different techniques for lining up data visualizations with geographic context.  
-*d) Customize*  
+**d) Customize**  
 The reason you are probably trying to learn this is so you can make rich,
 powerful and custom visualizations. Each tool we will use has its own
 possibilities (and constraints) when it comes to customization. You should have
 a strong sense for whats possible and how to go deeper at the end of this
 workshop.
-*e) Interaction*  
+**e) Interaction**  
 Each tool we will use can be used for designing interaction with our
 maps and visualizations. We will take a look at the interaction capabilities and
 explore some of the possibilities in each act.  
@@ -74,7 +74,6 @@ _Hella data_
 
 
 # Encore
-========
 We may not have time to explore these examples in depth, but they should provide
 inspiration and exercises for those who wish to venture deeper into the technical
 possibilities of the tools covered in this workshop.
