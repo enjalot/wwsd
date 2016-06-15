@@ -10,21 +10,25 @@ act:
 **a) Inspect the data**  
 We will go over how to orient ourselves and the data and how to read
 GeoJSON/TopoJSON before we try to make the computer read it.  
+
 **b) Get something on screen**  
 After we know the basics about our data we can put it on the screen in the form
 of a simple map. Depending on what we want to do with it we may choose different
 tools as starting points. You will have a better sense of which tools and how to
 choose them after completing all three acts.  
+
 **c) Line things up**  
 One of the major concepts in cartography is that of Layers. This concept can be
 extended in various ways when making data-driven maps. We will practice several
 different techniques for lining up data visualizations with geographic context.  
+
 **d) Customize**  
 The reason you are probably trying to learn this is so you can make rich,
 powerful and custom visualizations. Each tool we will use has its own
 possibilities (and constraints) when it comes to customization. You should have
 a strong sense for whats possible and how to go deeper at the end of this
-workshop.
+workshop.  
+
 **e) Interaction**  
 Each tool we will use can be used for designing interaction with our
 maps and visualizations. We will take a look at the interaction capabilities and
@@ -65,9 +69,42 @@ We will explore the three basic GeoJSON data types with these files:
 # Act I
 _I've got the whole world, in my hands_
 
+### Inspect the data
+[World data files](data/world)  
+View each data file in a text editor.  
+Copy each data file into [geojson.io](http://geojson.io).  
+
+### Leaflet
+Getting started  
+[Start]()
+[Finish]()
+
+Basic styling
+[Start]()
+[Finish]()
+
+Basic interaction
+[Start]()
+[Finish]()
+
+Resources: leaflet docs
+
+### d3
+Rendering with SVG
+[Start]()
+[Finish]()
+
+Resources: 
+d3 docs
+example search
+
+
 # Act II
 _Cheerio lads_
 
+### Inspect the data
+
+### Mapbox-gl
 
 # Act III
 _Hella data_
