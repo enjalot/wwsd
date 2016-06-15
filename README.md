@@ -1,5 +1,4 @@
 # Introduction
---------------
 This workshop is designed to help you learn how to learn when it comes to
 working with geospatial data. The workshop has been split into three acts,
 each focusing on a different zoom level and geographic area. The idea is that
@@ -8,28 +7,28 @@ or what kind it is. To help you develop the confidence to tackle spatial data
 from anywhere in the world we will repeat the following refrain throughout each
 act:
 
-a) Inspect the data  
+*a) Inspect the data*  
 We will go over how to orient ourselves and the data and how to read
 GeoJSON/TopoJSON before we try to make the computer read it.  
-b) Get something on screen
+*b) Get something on screen*  
 After we know the basics about our data we can put it on the screen in the form
 of a simple map. Depending on what we want to do with it we may choose different
 tools as starting points. You will have a better sense of which tools and how to
 choose them after completing all three acts.  
-c) Line things up  
+*c) Line things up*  
 One of the major concepts in cartography is that of Layers. This concept can be
 extended in various ways when making data-driven maps. We will practice several
-different techniques for lining up data visualizations with geographic context.
-d) Customize
+different techniques for lining up data visualizations with geographic context.  
+*d) Customize*  
 The reason you are probably trying to learn this is so you can make rich,
 powerful and custom visualizations. Each tool we will use has its own
 possibilities (and constraints) when it comes to customization. You should have
 a strong sense for whats possible and how to go deeper at the end of this
 workshop.
-e) Interaction
+*e) Interaction*  
 Each tool we will use can be used for designing interaction with our
 maps and visualizations. We will take a look at the interaction capabilities and
-explore some of the possibilities in each act.
+explore some of the possibilities in each act.  
 
 This workshop is designed to be very hands-on, with many examples that can be
 extended as exercises. It would be impossible to touch everything that we could
@@ -47,38 +46,35 @@ to validate data you have found and make sure its the real deal before you get
 too far into building your data visualization.
 
 # Data
-------
 The data used in the following examples is all contained in this repository. The
 datasets are designed to cover a variety of locations and scales (world-wide
 down to city level) so that you don't feel confined to one geographic area
 while practicing. Each data folder contains a README that describes where the
 data comes from and how it was processed.
 
-We will explore three basic data types with these files:  
+[World data files](data/world)  
+[UK (London) data files](data/UK)  
+[USA (SF) data files](data/USA)
+
+We will explore the three basic GeoJSON data types with these files:  
 * Polygons - Administrative boundaries (e.g. countries, states and counties)
 * Lines - Roads, Routes and Rivers
 * Points - Cities, Subway stations
 
-[World data files](data/world)  
-[UK (London) data files](data/UK)  
-[USA (SF) data files](data/USA)  
 
 # Act I
--------
 _I've got the whole world, in my hands_
 
 # Act II
---------
 _Cheerio lads_
 
 
 # Act III
----------
 _Hella data_
 
 
 # Encore
---------
+========
 We may not have time to explore these examples in depth, but they should provide
 inspiration and exercises for those who wish to venture deeper into the technical
 possibilities of the tools covered in this workshop.
