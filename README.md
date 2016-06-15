@@ -73,42 +73,95 @@ _I've got the whole world, in my hands_
 [World data files](data/world)  
 View each data file in a text editor.  
 Copy each data file into [geojson.io](http://geojson.io).  
+Whats up with this [TopoJSON stuff]()
 
 ### Leaflet
 Getting started  
 [Start]()
 [Finish]()
 
-Basic styling
+Basic styling  
 [Start]()
 [Finish]()
 
-Basic interaction
+Basic interaction  
 [Start]()
 [Finish]()
 
 Resources: leaflet docs
 
-### d3
-Rendering with SVG
+### d3.js
+SVG Paths
 [Start]()
 [Finish]()
 
-Resources: 
+Rendering a map with SVG  
+[Start]()
+[Finish]()
+
+Mouse interactions with SVG
+
+Zooming with SVG
+
+
+Resources:
 d3 docs
 example search
 
 
 # Act II
-_Cheerio lads_
+_Fancy a cup of tea?_
 
 ### Inspect the data
 
 ### Mapbox-gl
 
+Getting started  
+[Start]()
+[Finish]()
+
+Basic styling  
+[Start]()
+[Finish]()
+
+Basic interaction  
+[Start]()
+[Finish]()
+
+resources:
+mapbox-gl docs
+mapbox-gl examples
+
+
+### d3.js
+Leaflet SVG Overlay  
+[Start]()
+[Finish]()
+
+resources: d3 leaflet, dots on a map
+
+Mapbox-gl SVG Overlay
+[Start]()
+[Finish]()
+resources: dots on a map
+
+
+
 # Act III
 _Hella data_
 
+### d3.js
+
+
+Rendering with Canvas
+CA counties
+
+(advanced)
+Clipping
+
+Kai's color lookup for canvas interaction
+
+Animated paths
 
 # Encore
 We may not have time to explore these examples in depth, but they should provide
