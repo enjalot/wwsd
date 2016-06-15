@@ -71,40 +71,44 @@ We will explore the three basic GeoJSON data types with these files:
 # Act I
 _I've got the whole world, in my hands_
 
-## Inspect the data
+### Inspect the data
 [World data files](data/world)  
 View each data file in a text editor.  
 Copy each data file into [geojson.io](http://geojson.io).  
 Whats up with this [TopoJSON stuff]()
 
-## Leaflet
-### Getting started  
+### Leaflet
+**Getting started**  
 [Start]()
 [Finish]()
 
-### Basic styling  
+**Basic styling**  
 [Start]()
 [Finish]()
 
-Basic interaction  
+**Basic interaction**  
 [Start]()
 [Finish]()
 
 Resources: leaflet docs
 
-## d3.js
-SVG Paths
+### d3.js
+**SVG Paths**  
 [Start]()
 [Finish]()
 
-Rendering a map with SVG  
+**Rendering a map with SVG**   
 [Start]()
 [Finish]()
 
-Mouse interactions with SVG
+**Mouse interactions with SVG**
+[Start]()
+[Finish]()
 
-Zooming with SVG
-
+**Zooming with SVG**  
+example 1  
+example 2  
+example 3  (enjalot zoom to state & show counties example)
 
 Resources:
 d3 docs
