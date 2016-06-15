@@ -34,6 +34,8 @@ Each tool we will use can be used for designing interaction with our
 maps and visualizations. We will take a look at the interaction capabilities and
 explore some of the possibilities in each act.  
 
+---
+
 This workshop is designed to be very hands-on, with many examples that can be
 extended as exercises. It would be impossible to touch everything that we could
 find interesting in web mapping. The hope is that after going through these
@@ -69,18 +71,18 @@ We will explore the three basic GeoJSON data types with these files:
 # Act I
 _I've got the whole world, in my hands_
 
-### Inspect the data
+## Inspect the data
 [World data files](data/world)  
 View each data file in a text editor.  
 Copy each data file into [geojson.io](http://geojson.io).  
 Whats up with this [TopoJSON stuff]()
 
-### Leaflet
-Getting started  
+## Leaflet
+### Getting started  
 [Start]()
 [Finish]()
 
-Basic styling  
+### Basic styling  
 [Start]()
 [Finish]()
 
@@ -90,7 +92,7 @@ Basic interaction
 
 Resources: leaflet docs
 
-### d3.js
+## d3.js
 SVG Paths
 [Start]()
 [Finish]()
