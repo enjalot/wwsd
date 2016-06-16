@@ -85,16 +85,16 @@ visualize with d3.
 
 ### Leaflet
 **Getting started**  
-[Example #1]()
+[Example #1 <img src="https://gist.githubusercontent.com/enjalot/5c780d3df8da2ecceebf117a9ac7be38/raw/fd60f7eb35cc99b1ac6aaab05b1679c47862ec20/thumbnail.png">](https://github.com/enjalot/wwsd/issues/1)
 
+Resources:
+[GeoJSON with Leaflet](http://leafletjs.com/examples/geojson.html)
 
-**Basic styling**  
+**Basic styling & interaction**  
 
+Resources:  
+[Choropleth](http://leafletjs.com/examples/choropleth.html)
 
-**Basic interaction**  
-
-
-Resources: leaflet docs
 
 ### d3.js
 **SVG Paths**  
