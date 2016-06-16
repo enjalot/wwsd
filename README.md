@@ -85,9 +85,6 @@ visualize with d3.
 **Getting started**  
 [<img src="https://gist.github.com/enjalot/208dd99b6ed6a424513524d963880700/raw/c026672c7dc702708f1d5a5ef5097da2e336dc20/thumbnail.png">](https://github.com/enjalot/wwsd/issues/1)
 
-Resources:
-[GeoJSON with Leaflet](http://leafletjs.com/examples/geojson.html)
-
 **Basic styling & interaction**  
 
 Resources:  
