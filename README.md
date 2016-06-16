@@ -46,6 +46,9 @@ We will explore the three basic GeoJSON data types with these files:
 * Lines - Roads, Routes and Rivers
 * Points - Cities, Subway stations
 
+I recommend reading [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
+before the workshop, we will cover the same stuff but its a concise overview and a great reference.
+
 
 # Act I
 _I've got the whole world, in my hands_
