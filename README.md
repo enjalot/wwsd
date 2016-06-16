@@ -80,11 +80,12 @@ Copy each data file into [geojson.io](http://geojson.io).
 [Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
 Open the console. Poke around the loaded TopoJSON and GeoJSON data to see how its structured.
 You can treat a FeatureCollection almost like any other array of objects you
-visualize with d3.
+visualize with d3.  
 [Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
 
 ### Leaflet
 **Getting started**  
+[Example #1]()
 
 
 **Basic styling**  
@@ -103,15 +104,17 @@ MDN
 
 **Rendering a map with SVG**   
 
-resources:
-d3 docs
-lets make a map
+[Projections](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
+
+Resources:  
+D3 docs: [d3.geo.path](https://github.com/d3/d3/wiki/Geo-Paths)  
+Tutorial: [lets make a map](https://bost.ocks.org/mike/map/)  
 
 **Mouse interactions with SVG**  
 
 
 **Zooming with SVG**  
-mike's examples for different ways to zoom
+[Mike's examples](http://blockbuilder.org/search#text=zoom;user=mbostock;api=geo.path)
 [State grid minimap](http://bl.ocks.org/enjalot/1919bd8c2f574caa17ba)
 
 Resources:
@@ -119,14 +122,14 @@ example search
 
 
 # Act II
-_Fancy a cup of tea?_
+_Fancy a cup of tea?_  
 
 ### Inspect the data
 [UK (London) data files](data/UK)  
 View each data file in a text editor.  
 Copy each data file into [geojson.io](http://geojson.io).  
-[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
-[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
+[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf)  
+[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63)  
 
 ### Mapbox-gl
 
@@ -155,14 +158,14 @@ resources: dots on a map
 
 
 # Act III
-_Hella data_
-View each data file in a text editor.  
-Copy each data file into [geojson.io](http://geojson.io).  
-[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
-[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
+_Hella data_  
 
 ### Inspect the data
 [USA (SF) data files](data/USA)
+View each data file in a text editor.  
+Copy each data file into [geojson.io](http://geojson.io).  
+[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf)  
+[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63)  
 
 ### d3.js
 
@@ -172,12 +175,16 @@ CA counties
 **Data lookups**  
 [SF Precincts](http://blockbuilder.org/enjalot/f071fe9f332c62cb7bcad13ae5d645d8)
 
-**Intersections with Turf.js**  
+### turf.js
+**Measuring**  
 CA counties + CA rivers
+**Intersections**  
+CA counties + CA rivers
+**Buffering**  
+CA rivers
 
-resources: turfjs.org
-
-
+Resources:  
+[TurfJS Docs](http://turfjs.org/docs/)  
 
 # Encore
 We may not have time to explore these examples in depth, but they should provide
@@ -185,13 +192,16 @@ inspiration and exercises for those who wish to venture deeper into the technica
 possibilities of the tools covered in this workshop.
 
 **It's a map, sort of**  
-Using geospatial properties or locations to add context:
-[Circle counties](http://bl.ocks.org/mbostock/4206975)
-Try doing this with the world populations
+Using geospatial properties or locations to add context:  
+[Circle counties](http://bl.ocks.org/mbostock/4206975)  
+Try doing this with the [world populations](http://enjalot.github.io/wwsd/data/world/ne_50m_admin_0_countries.topojson)
 
-**Advanced canvas interaction**  
-[Selecting countries on a canvas globe](http://bl.ocks.org/syntagmatic/6645345)
+**Advanced canvas interaction**   
+[Selecting countries on a canvas globe](http://bl.ocks.org/syntagmatic/6645345)  
 
 **Clipping**  
+[Clipping geometry data](http://blockbuilder.org/mbostock/6301872)  
+[Clipping raster tiles](http://bl.ocks.org/enjalot/985de8fcd65d37583949edbf280f2632)  
 
 **Animated paths**  
+[Timer & Mapbox-gl](http://bl.ocks.org/enjalot/4ff31e96860f38d4fd58)  
