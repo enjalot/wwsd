@@ -122,31 +122,32 @@ _Fancy a cup of tea?_
 
 ### Mapbox-gl
 
-Getting started  
+**Getting started**  
 [Start]()
 [Finish]()
 
-Basic styling  
+**Basic styling**  
 [Start]()
 [Finish]()
 
-Basic interaction  
+**Basic interaction**  
 [Start]()
 [Finish]()
 
 resources:
 mapbox-gl docs
 mapbox-gl examples
+[fitBounds](https://www.mapbox.com/mapbox-gl-js/example/fitbounds/)
 
 
 ### d3.js
-Leaflet SVG Overlay  
+**Leaflet SVG Overlay**  
 [Start]()
 [Finish]()
 
 resources: d3 leaflet, dots on a map
 
-Mapbox-gl SVG Overlay
+**Mapbox-gl SVG Overlay**
 [Start]()
 [Finish]()
 resources: dots on a map
@@ -158,18 +159,22 @@ _Hella data_
 
 ### d3.js
 
-
-Rendering with Canvas
+**Rendering with Canvas**  
 CA counties
 
-(advanced)
-Clipping
+**Intersection**  
+CA counties + CA rivers
 
-Kai's color lookup for canvas interaction
 
-Animated paths
+
 
 # Encore
 We may not have time to explore these examples in depth, but they should provide
 inspiration and exercises for those who wish to venture deeper into the technical
 possibilities of the tools covered in this workshop.
+
+Clipping
+
+Kai's color lookup for canvas interaction
+
+Animated paths
