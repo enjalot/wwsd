@@ -58,9 +58,9 @@ down to city level) so that you don't feel confined to one geographic area
 while practicing. Each data folder contains a README that describes where the
 data comes from and how it was processed.
 
-[World data files](data/world)  
-[UK (London) data files](data/UK)  
-[USA (SF) data files](data/USA)
+## [World data files](data/world)  
+## [UK (London) data files](data/UK)  
+## [USA (SF) data files](data/USA)
 
 We will explore the three basic GeoJSON data types with these files:  
 * Polygons - Administrative boundaries (e.g. countries, states and counties)
@@ -75,43 +75,44 @@ _I've got the whole world, in my hands_
 [World data files](data/world)  
 View each data file in a text editor.  
 Copy each data file into [geojson.io](http://geojson.io).  
-Whats up with this [TopoJSON stuff]()
+[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
+Open the console. Poke around the loaded TopoJSON and GeoJSON data to see how its structured.
+You can treat a FeatureCollection almost like any other array of objects you
+visualize with d3.
+[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
 
 ### Leaflet
 **Getting started**  
-[Start]()
-[Finish]()
+
 
 **Basic styling**  
-[Start]()
-[Finish]()
+
 
 **Basic interaction**  
-[Start]()
-[Finish]()
+
 
 Resources: leaflet docs
 
 ### d3.js
 **SVG Paths**  
-[Start]()
-[Finish]()
+
+resources:
+MDN
 
 **Rendering a map with SVG**   
-[Start]()
-[Finish]()
 
-**Mouse interactions with SVG**
-[Start]()
-[Finish]()
+resources:
+d3 docs
+lets make a map
+
+**Mouse interactions with SVG**  
+
 
 **Zooming with SVG**  
-example 1  
-example 2  
-example 3  (enjalot zoom to state & show counties example)
+mike's examples for different ways to zoom
+[State grid minimap](http://bl.ocks.org/enjalot/1919bd8c2f574caa17ba)
 
 Resources:
-d3 docs
 example search
 
 
@@ -119,20 +120,21 @@ example search
 _Fancy a cup of tea?_
 
 ### Inspect the data
+[UK (London) data files](data/UK)  
+View each data file in a text editor.  
+Copy each data file into [geojson.io](http://geojson.io).  
+[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
+[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
 
 ### Mapbox-gl
 
 **Getting started**  
-[Start]()
-[Finish]()
+
 
 **Basic styling**  
-[Start]()
-[Finish]()
+
 
 **Basic interaction**  
-[Start]()
-[Finish]()
 
 resources:
 mapbox-gl docs
@@ -142,29 +144,36 @@ mapbox-gl examples
 
 ### d3.js
 **Leaflet SVG Overlay**  
-[Start]()
-[Finish]()
 
 resources: d3 leaflet, dots on a map
 
 **Mapbox-gl SVG Overlay**
-[Start]()
-[Finish]()
-resources: dots on a map
 
+resources: dots on a map
 
 
 # Act III
 _Hella data_
+View each data file in a text editor.  
+Copy each data file into [geojson.io](http://geojson.io).  
+[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
+[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
+
+### Inspect the data
+[USA (SF) data files](data/USA)
 
 ### d3.js
 
 **Rendering with Canvas**  
 CA counties
 
-**Intersection**  
+**Data lookups**  
+[SF Precincts](http://blockbuilder.org/enjalot/f071fe9f332c62cb7bcad13ae5d645d8)
+
+**Intersections with Turf.js**  
 CA counties + CA rivers
 
+resources: turfjs.org
 
 
 
@@ -173,8 +182,14 @@ We may not have time to explore these examples in depth, but they should provide
 inspiration and exercises for those who wish to venture deeper into the technical
 possibilities of the tools covered in this workshop.
 
-Clipping
+**It's a map, sort of**  
+Using geospatial properties or locations to add context:
+[Circle counties](http://bl.ocks.org/mbostock/4206975)
+Try doing this with the world populations
 
-Kai's color lookup for canvas interaction
+**Advanced canvas interaction**  
+[Selecting countries on a canvas globe](http://bl.ocks.org/syntagmatic/6645345)
 
-Animated paths
+**Clipping**  
+
+**Animated paths**  
