@@ -73,15 +73,13 @@ We will explore the three basic GeoJSON data types with these files:
 # Act I
 _I've got the whole world, in my hands_
 
-### Inspect the data
-[World data files](data/world)  
-View each data file in a text editor.  
-Copy each data file into [geojson.io](http://geojson.io).  
-[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
-Open the console. Poke around the loaded TopoJSON and GeoJSON data to see how its structured.
-You can treat a FeatureCollection almost like any other array of objects you
+### Inspect the data: [World data files](data/world)  
+* View each data file in a text editor.  
+* Copy each data file into [geojson.io](http://geojson.io).  
+* [Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
+* Open the console. Poke around the loaded TopoJSON and GeoJSON data to see how its structured. You can treat a FeatureCollection almost like any other array of objects you
 visualize with d3.  
-[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
+*  [Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
 
 ### Leaflet
 **Getting started**  
