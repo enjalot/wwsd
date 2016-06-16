@@ -1,4 +1,6 @@
-# Introduction
+# Working with spatial data for the web
+
+## Introduction
 This workshop is designed to help you learn how to learn when it comes to
 working with geospatial data. The workshop has been split into three acts,
 each focusing on a different zoom level and geographic area. The idea is that
