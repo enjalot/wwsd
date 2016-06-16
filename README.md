@@ -83,7 +83,7 @@ visualize with d3.
 
 ### Leaflet
 **Getting started**  
-[<img src="https://gist.githubusercontent.com/enjalot/5c780d3df8da2ecceebf117a9ac7be38/raw/fd60f7eb35cc99b1ac6aaab05b1679c47862ec20/thumbnail.png">](https://github.com/enjalot/wwsd/issues/1)
+[<img src="https://gist.github.com/enjalot/208dd99b6ed6a424513524d963880700/raw/c026672c7dc702708f1d5a5ef5097da2e336dc20/thumbnail.png">](https://github.com/enjalot/wwsd/issues/1)
 
 Resources:
 [GeoJSON with Leaflet](http://leafletjs.com/examples/geojson.html)
