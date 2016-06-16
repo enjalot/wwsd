@@ -144,9 +144,9 @@ CA counties
 
 ### turf.js
 **Measuring**  
-CA counties + CA rivers
+CA counties + CA rivers  
 **Intersections**  
-CA counties + CA rivers
+CA counties + CA rivers  
 **Buffering**  
 CA rivers
 
