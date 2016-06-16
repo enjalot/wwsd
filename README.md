@@ -63,7 +63,7 @@ visualize with d3.
 [<img src="https://gist.github.com/enjalot/208dd99b6ed6a424513524d963880700/raw/c026672c7dc702708f1d5a5ef5097da2e336dc20/thumbnail.png">](https://github.com/enjalot/wwsd/issues/1)
 
 **Basic styling & interaction**  
-[<img src="https://gist.githubusercontent.com/enjalot/0c8028933d402fb4823a5b0067b12a56/raw/2f8a6bb6ffd901059f95565f74175237a25d70fe/thumbnail.png"](https://github.com/enjalot/wwsd/issues/2)
+[<img src="https://gist.githubusercontent.com/enjalot/0c8028933d402fb4823a5b0067b12a56/raw/2f8a6bb6ffd901059f95565f74175237a25d70fe/thumbnail.png">](https://github.com/enjalot/wwsd/issues/2)
 
 ### d3.js
 **SVG Paths**  
