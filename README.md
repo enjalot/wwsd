@@ -3,9 +3,9 @@
 ## Introduction
 This workshop is designed to help you learn how to learn when it comes to
 working with geospatial data. The workshop has been split into three acts,
-each focusing on a different zoom level and geographic area. The idea is that
-you develop the ability to work with geospatial data no matter where it covers
-or what kind it is. To help you develop the confidence to tackle spatial data
+each focusing on a different zoom level, geographic area and technical tool.
+The idea is that you develop the ability to work with geospatial data no matter where it covers
+or what kind it is. To help you develop the confidence to visualize spatial data
 from anywhere in the world we will repeat the following refrain throughout each
 act:
 
@@ -27,15 +27,6 @@ find [interesting in web mapping](https://hi.stamen.com/an-ode-to-d3-js-projecti
 The hope is that after going through these
 three acts you will feel empowered to swap in your own data and add geo contexts
 to your own data visualization projects!
-
-One thing this workshop will not show you how to find
-and process geospatial data. There is more and more open data coming online from
-every level of government (and private organizations), learning how to search
-for good, complete and relevant data is a challenge unto itself. This workshop
-assumes you have data in GeoJSON format (if you have it in some other common  
-format like SHP it is trivial to convert). You should have a better sense of how
-to validate data you have found and make sure its the real deal before you get
-too far into building your data visualization.
 
 # Data
 The data used in the following examples is all contained in this repository. The
