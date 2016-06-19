@@ -78,7 +78,7 @@ visualize with d3.
 [<img src="https://gist.githubusercontent.com/enjalot/4a449bee40e7b74108de89e303a2a284/raw/09d140a991f7cbbe507b6d01086c2c6a3c79a90d/thumbnail.png">](https://github.com/enjalot/wwsd/issues/5)
 
 **Mouse interactions with d3 + SVG**  
-[<img src="https://gist.github.com/enjalot/b37e8dac613d0a39c5b4c2f0e13e1277/raw/c82cb9e878a20d632ce54700203dfb9070b12998/thumbnail.png">](https://gist.github.com/enjalot/b37e8dac613d0a39c5b4c2f0e13e1277)
+[<img src="https://gist.github.com/enjalot/b37e8dac613d0a39c5b4c2f0e13e1277/raw/c82cb9e878a20d632ce54700203dfb9070b12998/thumbnail.png">](https://github.com/enjalot/wwsd/issues/6)
 
 **Zooming with d3**  
 [<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/7)
