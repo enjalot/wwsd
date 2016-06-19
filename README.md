@@ -75,12 +75,12 @@ visualize with d3.
 [<img src="https://gist.githubusercontent.com/enjalot/c069550b4fc4fb409430829f07bd78f2/raw/74dce341847482d9dfd387b2aa6127eab539c3ba/thumbnail.png">](https://github.com/enjalot/wwsd/issues/4)
 
 **Rendering a map with d3 + TopoJSON + SVG**   
-[<img src="">](https://github.com/enjalot/wwsd/issues/5)
+[<img src="https://gist.githubusercontent.com/enjalot/4a449bee40e7b74108de89e303a2a284/raw/09d140a991f7cbbe507b6d01086c2c6a3c79a90d/thumbnail.png">](https://github.com/enjalot/wwsd/issues/5)
 
-**Mouse interactions with SVG**  
+**Mouse interactions with d3 + SVG**  
 
 
-**Zooming with SVG**  
+**Zooming with d3**  
 [Mike's examples](http://blockbuilder.org/search#text=zoom;user=mbostock;api=geo.path)
 [State grid minimap](http://bl.ocks.org/enjalot/1919bd8c2f574caa17ba)
 
