@@ -101,7 +101,7 @@ Copy each data file into [geojson.io](http://geojson.io)
 
 
 **Basic styling & interaction**  
-[<img src="http://blockbuilder.org/enjalot/21c55ff101229ee46f122eb9bd1e4b77">](https://github.com/enjalot/wwsd/issues/9)
+[<img src="https://camo.githubusercontent.com/a0747cb59f501c6e675ccb21d04914a79ca31a38/68747470733a2f2f676973742e6769746875622e636f6d2f656e6a616c6f742f32316335356666313031323239656534366631323265623962643165346237372f7261772f326333646235363337613835373531616236353638636337386634623334636436663365323666322f7468756d626e61696c2e706e67">](https://github.com/enjalot/wwsd/issues/9)
 
 
 ### d3.js
