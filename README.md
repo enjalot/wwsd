@@ -49,7 +49,6 @@ We will explore the three basic GeoJSON data types with these files:
 I recommend reading [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
 before the workshop, we will cover the same stuff but its a concise overview and a great reference.
 
-
 # Act I
 _I've got the whole world, in my hands_
 
@@ -57,7 +56,7 @@ _I've got the whole world, in my hands_
 * View each data file in a text editor.  
 * Copy each data file into [geojson.io](http://geojson.io)  
 * [Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf).  
-* Open the console. Poke around the loaded TopoJSON and GeoJSON data to see how its structured. You can treat a FeatureCollection almost like any other array of objects you
+* Open the console. Poke around the loaded GeoJSON data to see how its structured. You can treat a FeatureCollection almost like any other array of objects you
 visualize with d3.  
 *  [Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63).  
 
@@ -70,17 +69,13 @@ visualize with d3.
 
 ### d3.js
 **SVG Paths**  
+[<img src="https://gist.githubusercontent.com/enjalot/6c13610b33ed9d3f5b052fa3fc20ba56/raw/95497d048c07a95148b0d629d9dd34362a10c48c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/3)
 
-resources:
-MDN
+**Rendering a map with d3 + GeoJSON + SVG**   
+[<img src="https://gist.githubusercontent.com/enjalot/c069550b4fc4fb409430829f07bd78f2/raw/74dce341847482d9dfd387b2aa6127eab539c3ba/thumbnail.png">](https://github.com/enjalot/wwsd/issues/4)
 
-**Rendering a map with SVG**   
-
-[Projections](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
-
-Resources:  
-D3 docs: [d3.geo.path](https://github.com/d3/d3/wiki/Geo-Paths)  
-Tutorial: [lets make a map](https://bost.ocks.org/mike/map/)  
+**Rendering a map with d3 + TopoJSON + SVG**   
+[<img src="">](https://github.com/enjalot/wwsd/issues/5)
 
 **Mouse interactions with SVG**  
 
@@ -88,9 +83,6 @@ Tutorial: [lets make a map](https://bost.ocks.org/mike/map/)
 **Zooming with SVG**  
 [Mike's examples](http://blockbuilder.org/search#text=zoom;user=mbostock;api=geo.path)
 [State grid minimap](http://bl.ocks.org/enjalot/1919bd8c2f574caa17ba)
-
-Resources:
-example search
 
 
 # Act II
@@ -175,3 +167,4 @@ Try doing this with the [world populations](http://enjalot.github.io/wwsd/data/w
 
 **Animated paths**  
 [Timer & Mapbox-gl](http://bl.ocks.org/enjalot/4ff31e96860f38d4fd58)  
+[Transitions & point-along-path]()
