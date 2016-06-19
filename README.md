@@ -97,25 +97,21 @@ Copy each data file into [geojson.io](http://geojson.io)
 ### Mapbox-gl
 
 **Getting started**  
+[<img src="https://gist.github.com/enjalot/b81e02d752855d106f88a9c0e42e65a0/raw/f897bad8e804af7428c1d4419daca4f13e1cd2d3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/8)
 
 
 **Basic styling & interaction**  
-
-
-resources:
-mapbox-gl docs
-mapbox-gl examples
-[fitBounds](https://www.mapbox.com/mapbox-gl-js/example/fitbounds/)
+[<img src="http://blockbuilder.org/enjalot/21c55ff101229ee46f122eb9bd1e4b77">](https://github.com/enjalot/wwsd/issues/9)
 
 
 ### d3.js
 **Leaflet SVG Overlay**  
-
-resources: d3 leaflet, dots on a map
+[<img src="https://gist.githubusercontent.com/enjalot/eaf648eb5fd33a59b3865d8fc4f5eade/raw/4f59de7db1310a2c851c029054fa96b83dbfa495/thumbnail.png">](https://github.com/enjalot/wwsd/issues/10)
 
 **Mapbox-gl SVG Overlay**
 
-resources: dots on a map
+[<img src="https://gist.githubusercontent.com/enjalot/0d87f32a1ccb9a720d29ba74142ba365/raw/231cfdc132d214a7b7830173f33338ef236e6c1c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/11)
+
 
 
 # Act III
