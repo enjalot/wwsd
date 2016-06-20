@@ -10,6 +10,16 @@ find [interesting in web mapping](https://hi.stamen.com/an-ode-to-d3-js-projecti
 so the hope is that after going through these three acts you will feel empowered
 to swap in your own data and add geo contexts to your own data visualization projects!
 
+## Tools
+
+TODO: video overview of tools the workshop will cover
+
+* [Leaflet](http://leafletjs.com)
+* [Mapbox-gl](https://www.mapbox.com/mapbox-gl-js/examples/)
+* [d3.js](http://d3js.org)
+* [turf.js](http://turfjs.org/)
+
+
 # Act I: fundamentals
 _I've got the whole world, in my hands_
 
@@ -24,14 +34,14 @@ of a simple map. Depending on what we want to do with it we may choose different
 tools as starting points. You will have a better sense of which tools and how to
 choose them after completing all three acts.  
 
-### Data
+## Data
 
 First things first we will play with basic GeoJSON on [geojson.io](http://geojson.io) to get an intuitive sense for spatial data.
-We can look at [this example](http://blockbuilder.org/enjalot/9a51c6ef89a3625684bf) to get a relative sense for the "size" of a degree in longitude and latitude.
+We can look at [this example](http://blockbuilder.org/enjalot/9a51c6ef89a3625684bf) to get a relative sense for the "size" of a degree in longitude and latitude.  
 [<img src="https://gist.github.com/enjalot/9a51c6ef89a3625684bf/raw/da78aefb6caca640fbad4432e6c7f2c4ba2cbf0f/thumbnail.png">](http://blockbuilder.org/enjalot/9a51c6ef89a3625684bf)
 
-There are a set of pre-prepared datasets designed to cover a variety of locations and scales (world-wide
-down to city level) so that you don't feel confined to one geographic area
+We will use a set of pre-prepared datasets designed to cover a variety of locations and scales (world-wide
+down to city level) in the workshop so that you don't feel confined to one geographic area
 while practicing. Each data folder contains a README that describes where the
 data comes from and how it was processed:
 
@@ -45,7 +55,8 @@ We will explore the three basic GeoJSON data types with these files:
 * Points - Cities, Subway stations
 
 You can find the commands we used to process and convert the data in each folder.
-If you want to convert your own spatial data you may want to start with [Mapshaper](http://www.mapshaper.org/)
+If you want to convert your own spatial data you may want to start with
+[Mapshaper](http://www.mapshaper.org/) before getting into command line tools.
 
 I recommend reading [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
 before the workshop, we will cover the same stuff but its a concise overview and a great reference.
