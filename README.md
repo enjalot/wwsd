@@ -23,12 +23,12 @@ TODO: video overview of tools the workshop will cover
 # Act I: fundamentals
 _I've got the whole world, in my hands_
 
-This first part of the workshop will focus on
-**a) Understand the data**  
+This first part of the workshop will focus on  
+**a) Understanding the data**  
 We will go over how to orient ourselves and the data and how to read
 GeoJSON/TopoJSON before we try to make the computer read it.  
 
-**b) Get something on the screen**  
+**b) Getting something on the screen**  
 After we know the basics about our data we can put it on the screen in the form
 of a simple map. Depending on what we want to do with it we may choose different
 tools as starting points. You will have a better sense of which tools and how to
@@ -81,8 +81,10 @@ before the workshop, we will cover the same stuff but its a concise overview and
 # Act II: d3.js
 _Data driven_  
 
-### Projections
+This second part of the workshop will focus on understanding projections and using them
+with [d3](http://d3js.org) to render custom data-driven maps.
 
+### Projections
 Projections introduce distortion, to get a sense for how different projections distort the geometry of the earth play with [this example](http://blockbuilder.org/enjalot/bd552e711b8325c64729):  
 [<img src="https://gist.github.com/enjalot/bd552e711b8325c64729/raw/0c08b1ff1f690f12d476de724ac8a8084a137567/thumbnail.png">](http://blockbuilder.org/enjalot/bd552e711b8325c64729)  
 A fun modification using images to show distortion:  
@@ -93,6 +95,9 @@ If you want to understand projections from a fundamental level, checkout this [t
 
 If you want to get excited about what can be done when you can control projections with d3.js read [this article](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.bemxsm2j1):  
 [<img src="https://gist.github.com/enjalot/b3dcf273c3c6d56411b6/raw/d01821a6ae8e6e78681984fdfc52aa7f2fa4eb14/thumbnail.png">](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.bemxsm2j1)
+
+
+### Rendering with d3.js
 
 **SVG Paths**  
 [<img src="https://gist.githubusercontent.com/enjalot/6c13610b33ed9d3f5b052fa3fc20ba56/raw/95497d048c07a95148b0d629d9dd34362a10c48c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/3)
@@ -120,21 +125,33 @@ If you want to get excited about what can be done when you can control projectio
 # Act III: performance
 _Hella data_  
 
-View each data file in a text editor.  
-Copy each data file into [geojson.io](http://geojson.io)  
+This part of the workshop will focus on how we can render our maps with better performance.
+We can utilize an extension of GeoJSON called [TopoJSON]() as well as other rendering techniques like using the [Canvas API]().
+
+### TopoJSON
 [Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf)  
 [Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63)  
 
 **Rendering a map with d3 + TopoJSON + SVG**   
 [<img src="https://gist.githubusercontent.com/enjalot/4a449bee40e7b74108de89e303a2a284/raw/09d140a991f7cbbe507b6d01086c2c6a3c79a90d/thumbnail.png">](https://github.com/enjalot/wwsd/issues/5)
 
-
+### Canvas
 **Rendering with Canvas**  
 CA counties
 CA rivers
 
+**Zooming with Canvas**
+more examples that go with earlier zoom examples
 
-### turf.js
+# Encore
+We may not have time to explore these examples in depth, but they should provide
+inspiration and exercises for those who wish to venture deeper into the technical
+possibilities of the tools covered in this workshop.
+
+## turf.js
+
+Turf is...
+
 **Measuring**  
 CA counties + CA rivers  
 **Intersections**  
@@ -144,11 +161,6 @@ CA rivers
 
 Resources:  
 [TurfJS Docs](http://turfjs.org/docs/)  
-
-# Encore
-We may not have time to explore these examples in depth, but they should provide
-inspiration and exercises for those who wish to venture deeper into the technical
-possibilities of the tools covered in this workshop.
 
 **It's a map, sort of**  
 Using geospatial properties or locations to add context:  
