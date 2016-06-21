@@ -123,27 +123,29 @@ If you want to understand projections from a fundamental level, checkout this [t
 _Hella data_  
 
 This part of the workshop will focus on how we can render our maps with better performance.
-We can utilize an extension of GeoJSON called [TopoJSON]() as well as other rendering techniques like using the [Canvas API]().
+We can utilize an extension of GeoJSON called [TopoJSON](https://github.com/mbostock/topojson) as well as other rendering techniques like using the [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API).
 
 ### TopoJSON
-[Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf)  
-[Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63)  
+[TopoJSON](https://github.com/mbostock/topojson) is an extension of GeoJSON that encodes topology. One of the biggest benefits of this is
+that file sizes can be significantly smaller.
+
+A couple tools that can be used to orient yourself with TopoJSON files:
+[Inspect TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf)  
+[Preview TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63)  
+
 
 **[12) Rendering a map with d3 + TopoJSON + SVG](https://github.com/enjalot/wwsd/issues/12)**  
 [<img src="https://gist.githubusercontent.com/enjalot/4a449bee40e7b74108de89e303a2a284/raw/09d140a991f7cbbe507b6d01086c2c6a3c79a90d/thumbnail.png">](https://github.com/enjalot/wwsd/issues/12)
 
 ### Canvas
-**[13) Rendering with d3 + Canvas]()**  
-CA counties
-CA rivers
+[Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) is an HTML5 API for drawing pixel based images in the browser with Javascript.
+It is possible to render lots of data quicker with canvas than SVG, but it is less convenient for interaction.
 
-**[14) Zooming with Canvas]()**
-more examples that go with earlier zoom examples
+**[13) Rendering with d3 + Canvas](https://github.com/enjalot/wwsd/issues/13)**  
+[<img src="https://gist.github.com/enjalot/f6ac38e86de3e7d4cbe109ed601fa6d7/raw/64141ff1ccc42e112fd1f17c713f5d424a7f9a82/thumbnail.png">](https://github.com/enjalot/wwsd/issues/13)
 
-# Encore
-We may not have time to explore these examples in depth, but they should provide
-inspiration and exercises for those who wish to venture deeper into the technical
-possibilities of the tools covered in this workshop.
+**[14) Zooming with Canvas](https://github.com/enjalot/wwsd/issues/13)**
+[<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/14)
 
 ## turf.js
 
@@ -156,7 +158,10 @@ CA counties + CA rivers
 **[16) Buffering and contracting features]()**  
 CA rivers
 
-## Advanced techniques
+# Encore: advanced techniques
+We may not have time to explore these examples in depth, but they should provide
+inspiration and exercises for those who wish to venture deeper into the technical
+possibilities of the tools covered in this workshop.
 
 **It's a map, sort of**  
 Using geospatial properties or locations to add context:  
