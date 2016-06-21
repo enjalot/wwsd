@@ -25,16 +25,7 @@ job in different situations.
 # Act I: fundamentals
 _I've got the whole world, in my hands_
 
-This first part of the workshop will focus on  
-**a) Understanding the data**  
-We will go over how to orient ourselves and the data and how to read
-GeoJSON/TopoJSON before we try to make the computer read it.  
-
-**b) Getting something on the screen**  
-After we know the basics about our data we can put it on the screen in the form
-of a simple map. Depending on what we want to do with it we may choose different
-tools as starting points. You will have a better sense of which tools and how to
-choose them after completing all three acts.  
+This first part of the workshop will focus on understanding the data and quickly getting something on the screen.
 
 ## Data
 
@@ -156,22 +147,22 @@ possibilities of the tools covered in this workshop.
 
 ## turf.js
 
-Turf is...
+[TurfJS](http://turfjs.org) is a Javascript library for geospatial calculations and analysis.
+It provides many features which can come in handy when dealing with spatial data.
 
-**Measuring**  
+**[15) Measuring areas and lengths]()**  
 CA counties + CA rivers  
-**Intersections**  
-CA counties + CA rivers  
-**Buffering**  
+
+**[16) Buffering and contracting features]()**  
 CA rivers
 
-Resources:  
-[TurfJS Docs](http://turfjs.org/docs/)  
+## Advanced techniques
 
 **It's a map, sort of**  
 Using geospatial properties or locations to add context:  
 [Circle counties](http://bl.ocks.org/mbostock/4206975)  
 Try doing this with the [world populations](http://enjalot.github.io/wwsd/data/world/ne_50m_admin_0_countries.topojson)
+You can calculate the centroids of each country using d3 or turf. [Example answer](http://blockbuilder.org/eesur/14e16ab00342ea44e46f3fa45a2bbf08)
 
 **Advanced canvas interaction**   
 [Selecting countries on a canvas globe](http://bl.ocks.org/syntagmatic/6645345)  
@@ -182,4 +173,5 @@ Try doing this with the [world populations](http://enjalot.github.io/wwsd/data/w
 
 **Animated paths**  
 [Timer & Mapbox-gl](http://bl.ocks.org/enjalot/4ff31e96860f38d4fd58)  
-[Transitions & point-along-path]()
+[Transitions & Canvas](http://blockbuilder.org/rveciana/502db152b70cddfd554e9d48ee23e279)
+[Point-along-path & SVG]()
