@@ -144,19 +144,22 @@ It is possible to render lots of data quicker with canvas than SVG, but it is le
 **[13) Rendering with d3 + Canvas](https://github.com/enjalot/wwsd/issues/13)**  
 [<img src="https://gist.github.com/enjalot/f6ac38e86de3e7d4cbe109ed601fa6d7/raw/64141ff1ccc42e112fd1f17c713f5d424a7f9a82/thumbnail.png">](https://github.com/enjalot/wwsd/issues/13)
 
-**[14) Zooming with Canvas](https://github.com/enjalot/wwsd/issues/13)**
+**[14) Zooming with Canvas](https://github.com/enjalot/wwsd/issues/13)**  
 [<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/14)
+
+**[15) Mapbox-gl Canvas Overlay](https://github.com/enjalot/wwsd/issues/13)**  
+[<img src="https://gist.github.com/enjalot/7e1c6eda09fb3c8cb64453a79e760f25/raw/d0006272e088f9a7012fbbd85c6594c47ea9d8e3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/15)
 
 ## turf.js
 
 [TurfJS](http://turfjs.org) is a Javascript library for geospatial calculations and analysis.
 It provides many features which can come in handy when dealing with spatial data.
 
-**[15) Measuring areas and lengths]()**  
-CA counties + CA rivers  
+**[16) Measuring areas and lengths]()**  
+[<img src="https://gist.github.com/enjalot/7e1c6eda09fb3c8cb64453a79e760f25/raw/d0006272e088f9a7012fbbd85c6594c47ea9d8e3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/16)
 
-**[16) Buffering and contracting features]()**  
-CA rivers
+**[17) Buffering and contracting features]()**  
+[<img src="https://gist.github.com/enjalot/397af58276d926193d28b8023b2400f2/raw/53ceb523af4237bb5b464e2475a968c716300545/thumbnail.png"](https://github.com/enjalot/wwsd/issues/17)
 
 # Encore: advanced techniques
 We may not have time to explore these examples in depth, but they should provide
