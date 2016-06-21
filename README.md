@@ -159,7 +159,7 @@ It provides many features which can come in handy when dealing with spatial data
 [<img src="https://gist.github.com/enjalot/7e1c6eda09fb3c8cb64453a79e760f25/raw/d0006272e088f9a7012fbbd85c6594c47ea9d8e3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/16)
 
 **[17) Buffering and contracting features]()**  
-[<img src="https://gist.github.com/enjalot/397af58276d926193d28b8023b2400f2/raw/53ceb523af4237bb5b464e2475a968c716300545/thumbnail.png"](https://github.com/enjalot/wwsd/issues/17)
+[<img src="https://gist.github.com/enjalot/397af58276d926193d28b8023b2400f2/raw/53ceb523af4237bb5b464e2475a968c716300545/thumbnail.png">](https://github.com/enjalot/wwsd/issues/17)
 
 # Encore: advanced techniques
 We may not have time to explore these examples in depth, but they should provide
