@@ -182,4 +182,4 @@ You can calculate the centroids of each country using d3 or turf. [Example answe
 **Animated paths**  
 [Timer & Mapbox-gl](http://bl.ocks.org/enjalot/4ff31e96860f38d4fd58)  
 [Transitions & Canvas](http://blockbuilder.org/rveciana/502db152b70cddfd554e9d48ee23e279)
-[Point-along-path & SVG]()
+[Point-along-path & SVG](http://blockbuilder.org/wboykinm/5689397a1236ec79c0e94a162bd4d566)
