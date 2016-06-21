@@ -99,25 +99,25 @@ If you want to get excited about what can be done when you can control projectio
 
 ### Rendering with d3.js
 
-**SVG Paths**  
-[<img src="https://gist.githubusercontent.com/enjalot/6c13610b33ed9d3f5b052fa3fc20ba56/raw/95497d048c07a95148b0d629d9dd34362a10c48c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/3)
+**[5) SVG Paths](https://github.com/enjalot/wwsd/issues/5)**  
+[<img src="https://gist.githubusercontent.com/enjalot/6c13610b33ed9d3f5b052fa3fc20ba56/raw/95497d048c07a95148b0d629d9dd34362a10c48c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/5)
 
-**Rendering a map with d3 + GeoJSON + SVG**   
-[<img src="https://gist.githubusercontent.com/enjalot/c069550b4fc4fb409430829f07bd78f2/raw/74dce341847482d9dfd387b2aa6127eab539c3ba/thumbnail.png">](https://github.com/enjalot/wwsd/issues/4)
+**[6) Rendering a map with d3 projections](https://github.com/enjalot/wwsd/issues/46**   
+[<img src="https://gist.githubusercontent.com/enjalot/c069550b4fc4fb409430829f07bd78f2/raw/74dce341847482d9dfd387b2aa6127eab539c3ba/thumbnail.png">](https://github.com/enjalot/wwsd/issues/6)
 
-**Mouse interactions with d3 + SVG**  
-[<img src="https://gist.github.com/enjalot/b37e8dac613d0a39c5b4c2f0e13e1277/raw/c82cb9e878a20d632ce54700203dfb9070b12998/thumbnail.png">](https://github.com/enjalot/wwsd/issues/6)
+**[7) Mouse interactions with d3 + SVG](https://github.com/enjalot/wwsd/issues/7)**  
+[<img src="https://gist.github.com/enjalot/b37e8dac613d0a39c5b4c2f0e13e1277/raw/c82cb9e878a20d632ce54700203dfb9070b12998/thumbnail.png">](https://github.com/enjalot/wwsd/issues/7)
 
-**Data lookups**  
-[SF Precincts](http://blockbuilder.org/enjalot/f071fe9f332c62cb7bcad13ae5d645d8)
+**[8) Data lookups](https://github.com/enjalot/wwsd/issues/8)**  
+[<img src="https://gist.github.com/enjalot/f071fe9f332c62cb7bcad13ae5d645d8/raw/9d153c338e5c793107c2bba894c956cd592eee67/thumbnail.png">](https://github.com/enjalot/wwsd/issues/8)
 
-**Zooming with d3**  
-[<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/7)
+**[9) Zooming with d3](https://github.com/enjalot/wwsd/issues/9)**  
+[<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/9)
 
-**Leaflet SVG Overlay**  
+**[10) Leaflet SVG Overlay](https://github.com/enjalot/wwsd/issues/10)**  
 [<img src="https://gist.githubusercontent.com/enjalot/eaf648eb5fd33a59b3865d8fc4f5eade/raw/4f59de7db1310a2c851c029054fa96b83dbfa495/thumbnail.png">](https://github.com/enjalot/wwsd/issues/10)
 
-**Mapbox-gl SVG Overlay**
+**[11) Mapbox-gl SVG Overlay](https://github.com/enjalot/wwsd/issues/11)**
 
 [<img src="https://gist.githubusercontent.com/enjalot/0d87f32a1ccb9a720d29ba74142ba365/raw/231cfdc132d214a7b7830173f33338ef236e6c1c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/11)
 
@@ -132,15 +132,15 @@ We can utilize an extension of GeoJSON called [TopoJSON]() as well as other rend
 [Inspect the TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf)  
 [Preview the TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63)  
 
-**Rendering a map with d3 + TopoJSON + SVG**   
-[<img src="https://gist.githubusercontent.com/enjalot/4a449bee40e7b74108de89e303a2a284/raw/09d140a991f7cbbe507b6d01086c2c6a3c79a90d/thumbnail.png">](https://github.com/enjalot/wwsd/issues/5)
+**[12) Rendering a map with d3 + TopoJSON + SVG](https://github.com/enjalot/wwsd/issues/12)**  
+[<img src="https://gist.githubusercontent.com/enjalot/4a449bee40e7b74108de89e303a2a284/raw/09d140a991f7cbbe507b6d01086c2c6a3c79a90d/thumbnail.png">](https://github.com/enjalot/wwsd/issues/12)
 
 ### Canvas
-**Rendering with Canvas**  
+**[13) Rendering with d3 + Canvas]()**  
 CA counties
 CA rivers
 
-**Zooming with Canvas**
+**[14) Zooming with Canvas]()**
 more examples that go with earlier zoom examples
 
 # Encore
