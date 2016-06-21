@@ -8,11 +8,13 @@ This workshop is designed to be very hands-on, with many examples that can be
 extended as exercises. It would be impossible to touch everything that we could
 find [interesting in web mapping](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.1hr10rltk),
 so the hope is that after going through these three acts you will feel empowered
-to swap in your own data and add geo contexts to your own data visualization projects!
+to swap in your own data and leverage [hundreds of examples](http://blockbuilder.org/search#api=geo.path) in your own data visualization projects!
 
 ## Tools
 
-TODO: video overview of tools the workshop will cover
+This workshop will cover the following Javascript libraries, by the end you will have had
+hands on experience with each one. We will see first-hand which tool is best for the
+job in different situations.
 
 * [Leaflet](http://leafletjs.com)
 * [Mapbox-gl](https://www.mapbox.com/mapbox-gl-js/examples/)
@@ -84,8 +86,13 @@ _Data driven_
 This second part of the workshop will focus on understanding projections and using them
 with [d3](http://d3js.org) to render custom data-driven maps.
 
-### Projections
-Projections introduce distortion, to get a sense for how different projections distort the geometry of the earth play with [this example](http://blockbuilder.org/enjalot/bd552e711b8325c64729):  
+## Projections
+[Map projections](https://en.wikipedia.org/wiki/Map_projection) are an important concept, and we need at least a basic grasp
+of how they work to make the kinds of [custom maps](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.bemxsm2j1) we'd like to with d3.  
+[<img src="https://gist.github.com/enjalot/b3dcf273c3c6d56411b6/raw/d01821a6ae8e6e78681984fdfc52aa7f2fa4eb14/thumbnail.png">](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.bemxsm2j1)
+
+One point we need to emphasize is that projections introduce distortion,
+to get a sense for how different projections distort the geometry of the earth play with [this example](http://blockbuilder.org/enjalot/bd552e711b8325c64729):  
 [<img src="https://gist.github.com/enjalot/bd552e711b8325c64729/raw/0c08b1ff1f690f12d476de724ac8a8084a137567/thumbnail.png">](http://blockbuilder.org/enjalot/bd552e711b8325c64729)  
 A fun modification using images to show distortion:  
 [<img src="https://gist.github.com/enjalot/5233898432653069ea8e/raw/96143ed7dd56e0a576e91b1362e16442d5f9f77b/thumbnail.png">](http://blockbuilder.org/enjalot/5233898432653069ea8e)  
@@ -93,16 +100,13 @@ And a [gratuitous animation](http://blockbuilder.org/enjalot/27969219a945e2bd20d
 
 If you want to understand projections from a fundamental level, checkout this [thorough presentation](http://lyzidiamond.com/geodesy-pt-1/#0) on where projections come from.
 
-If you want to get excited about what can be done when you can control projections with d3.js read [this article](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.bemxsm2j1):  
-[<img src="https://gist.github.com/enjalot/b3dcf273c3c6d56411b6/raw/d01821a6ae8e6e78681984fdfc52aa7f2fa4eb14/thumbnail.png">](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.bemxsm2j1)
 
-
-### Rendering with d3.js
+## Rendering with d3.js
 
 **[5) SVG Paths](https://github.com/enjalot/wwsd/issues/5)**  
 [<img src="https://gist.githubusercontent.com/enjalot/6c13610b33ed9d3f5b052fa3fc20ba56/raw/95497d048c07a95148b0d629d9dd34362a10c48c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/5)
 
-**[6) Rendering a map with d3 projections](https://github.com/enjalot/wwsd/issues/46**   
+**[6) Rendering a map with d3 projections](https://github.com/enjalot/wwsd/issues/46)**   
 [<img src="https://gist.githubusercontent.com/enjalot/c069550b4fc4fb409430829f07bd78f2/raw/74dce341847482d9dfd387b2aa6127eab539c3ba/thumbnail.png">](https://github.com/enjalot/wwsd/issues/6)
 
 **[7) Mouse interactions with d3 + SVG](https://github.com/enjalot/wwsd/issues/7)**  
@@ -110,6 +114,8 @@ If you want to get excited about what can be done when you can control projectio
 
 **[8) Data lookups](https://github.com/enjalot/wwsd/issues/8)**  
 [<img src="https://gist.github.com/enjalot/f071fe9f332c62cb7bcad13ae5d645d8/raw/9d153c338e5c793107c2bba894c956cd592eee67/thumbnail.png">](https://github.com/enjalot/wwsd/issues/8)
+
+### Advanced d3.js usage
 
 **[9) Zooming with d3](https://github.com/enjalot/wwsd/issues/9)**  
 [<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/9)
