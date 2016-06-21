@@ -92,6 +92,9 @@ And a [gratuitous animation](http://blockbuilder.org/enjalot/27969219a945e2bd20d
 If you want to understand projections from a fundamental level, checkout this [thorough presentation](http://lyzidiamond.com/geodesy-pt-1/#0) on where projections come from.
 
 
+
+
+
 ## Rendering with d3.js
 
 **[5) SVG Paths](https://github.com/enjalot/wwsd/issues/5)**  
@@ -105,6 +108,9 @@ If you want to understand projections from a fundamental level, checkout this [t
 
 **[8) Data lookups](https://github.com/enjalot/wwsd/issues/8)**  
 [<img src="https://gist.github.com/enjalot/f071fe9f332c62cb7bcad13ae5d645d8/raw/9d153c338e5c793107c2bba894c956cd592eee67/thumbnail.png">](https://github.com/enjalot/wwsd/issues/8)
+
+
+
 
 ### Advanced d3.js usage
 
@@ -129,13 +135,19 @@ We can utilize an extension of GeoJSON called [TopoJSON](https://github.com/mbos
 [TopoJSON](https://github.com/mbostock/topojson) is an extension of GeoJSON that encodes topology. One of the biggest benefits of this is
 that file sizes can be significantly smaller.
 
-A couple tools that can be used to orient yourself with TopoJSON files:
-[Inspect TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf)  
+A couple tools that can be used to orient yourself with TopoJSON files:  
+[Inspect TopoJSON](http://blockbuilder.org/enjalot/63d06e2ccadad0cb30dc5f920efd1cdf)   
 [Preview TopoJSON](http://blockbuilder.org/enjalot/fe2a8ee0ad59a58ce295f035419d9e63)  
+
+
 
 
 **[12) Rendering a map with d3 + TopoJSON + SVG](https://github.com/enjalot/wwsd/issues/12)**  
 [<img src="https://gist.githubusercontent.com/enjalot/4a449bee40e7b74108de89e303a2a284/raw/09d140a991f7cbbe507b6d01086c2c6a3c79a90d/thumbnail.png">](https://github.com/enjalot/wwsd/issues/12)
+
+
+
+
 
 ### Canvas
 [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) is an HTML5 API for drawing pixel based images in the browser with Javascript.
@@ -168,9 +180,10 @@ possibilities of the tools covered in this workshop.
 
 **It's a map, sort of**  
 Using geospatial properties or locations to add context:  
-[Circle counties](http://bl.ocks.org/mbostock/4206975)  
-Try doing this with the [world populations](http://enjalot.github.io/wwsd/data/world/ne_50m_admin_0_countries.topojson)
-You can calculate the centroids of each country using d3 or turf. [Example answer](http://blockbuilder.org/eesur/14e16ab00342ea44e46f3fa45a2bbf08)
+For example [Circle counties](http://bl.ocks.org/mbostock/4206975),
+Try doing this with the [world populations](http://enjalot.github.io/wwsd/data/world/ne_50m_admin_0_countries.topojson).  
+You can calculate the centroids of each country using d3 or turf.   
+[Example answer](http://blockbuilder.org/eesur/14e16ab00342ea44e46f3fa45a2bbf08)
 
 **Advanced canvas interaction**   
 [Selecting countries on a canvas globe](http://bl.ocks.org/syntagmatic/6645345)  
