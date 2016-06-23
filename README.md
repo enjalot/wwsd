@@ -65,10 +65,10 @@ before the workshop, we will cover the same stuff but its a concise overview and
 ### Mapbox-gl
 
 **[3) Getting started with Mapbox-gl](https://github.com/enjalot/wwsd/issues/3)**  
-[<img src="https://gist.github.com/enjalot/b81e02d752855d106f88a9c0e42e65a0/raw/f897bad8e804af7428c1d4419daca4f13e1cd2d3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/8)
+[<img src="https://gist.github.com/enjalot/b81e02d752855d106f88a9c0e42e65a0/raw/f897bad8e804af7428c1d4419daca4f13e1cd2d3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/3)
 
 **[4) Basic styling & interaction](https://github.com/enjalot/wwsd/issues/4)**  
-[<img src="https://camo.githubusercontent.com/a0747cb59f501c6e675ccb21d04914a79ca31a38/68747470733a2f2f676973742e6769746875622e636f6d2f656e6a616c6f742f32316335356666313031323239656534366631323265623962643165346237372f7261772f326333646235363337613835373531616236353638636337386634623334636436663365323666322f7468756d626e61696c2e706e67">](https://github.com/enjalot/wwsd/issues/9)
+[<img src="https://camo.githubusercontent.com/a0747cb59f501c6e675ccb21d04914a79ca31a38/68747470733a2f2f676973742e6769746875622e636f6d2f656e6a616c6f742f32316335356666313031323239656534366631323265623962643165346237372f7261772f326333646235363337613835373531616236353638636337386634623334636436663365323666322f7468756d626e61696c2e706e67">](https://github.com/enjalot/wwsd/issues/4)
 
 
 # Act II: d3.js
@@ -160,7 +160,7 @@ It is possible to render lots of data quicker with canvas than SVG, but it is le
 [<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/14)
 
 **[15) Mapbox-gl Canvas Overlay](https://github.com/enjalot/wwsd/issues/13)**  
-[<img src="https://gist.github.com/enjalot/7e1c6eda09fb3c8cb64453a79e760f25/raw/d0006272e088f9a7012fbbd85c6594c47ea9d8e3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/15)
+[<img src="https://camo.githubusercontent.com/61b545167b62b6af1c5634be6afff5bb0369ab2c/68747470733a2f2f676973742e6769746875622e636f6d2f656e6a616c6f742f63656636326535313966393439313666363265383531643337386365653034332f7261772f636639366332656238663966323333386165393637346231643266393362636438306664323262362f7468756d626e61696c2e706e67">](https://github.com/enjalot/wwsd/issues/15)
 
 ## turf.js
 
