@@ -100,7 +100,7 @@ If you want to understand projections from a fundamental level, checkout this [t
 **[5) SVG Paths](https://github.com/enjalot/wwsd/issues/5)**  
 [<img src="https://gist.githubusercontent.com/enjalot/6c13610b33ed9d3f5b052fa3fc20ba56/raw/95497d048c07a95148b0d629d9dd34362a10c48c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/5)
 
-**[6) Rendering a map with d3 projections](https://github.com/enjalot/wwsd/issues/46)**   
+**[6) Rendering a map with d3 projections](https://github.com/enjalot/wwsd/issues/6)**   
 [<img src="https://gist.githubusercontent.com/enjalot/c069550b4fc4fb409430829f07bd78f2/raw/74dce341847482d9dfd387b2aa6127eab539c3ba/thumbnail.png">](https://github.com/enjalot/wwsd/issues/6)
 
 **[7) Mouse interactions with d3 + SVG](https://github.com/enjalot/wwsd/issues/7)**  
