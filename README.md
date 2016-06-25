@@ -8,7 +8,7 @@ This workshop is designed to be very hands-on, with many examples that can be
 extended as exercises. It would be impossible to touch everything that we could
 find [interesting in web mapping](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.1hr10rltk),
 so the hope is that after going through these three acts you will feel empowered
-to swap in your own data and leverage [hundreds of examples](http://blockbuilder.org/search#api=geo.path) in your own data visualization projects!
+to swap in your own data and leverage [hundreds of examples](http://blockbuilder.org/search#api=d3.geo.path) in your own data visualization projects!
 
 ## Tools
 
