@@ -12,9 +12,9 @@ to swap in your own data and leverage [hundreds of examples](http://blockbuilder
 
 ## Tools
 
-This workshop will cover the following Javascript libraries, by the end you will have had
-hands on experience with each one. We will see first-hand which tool is best for the
-job in different situations.
+This workshop will cover a collection of Javascript mapping libraries. By the end, you will gain
+hands-on experience with each library. We will see first-hand which tool is best for the
+job in a variety of different situations.
 
 * [Leaflet](http://leafletjs.com)
 * [Mapbox-gl](https://www.mapbox.com/mapbox-gl-js/examples/)
@@ -29,13 +29,13 @@ This first part of the workshop will focus on understanding the data and quickly
 
 ## Data
 
-First things first we will play with basic GeoJSON on [geojson.io](http://geojson.io) to get an intuitive sense for spatial data.
-We can look at [this example](http://blockbuilder.org/enjalot/9a51c6ef89a3625684bf) to get a relative sense for the "size" of a degree in longitude and latitude.  
+First things first: we will play with basic GeoJSON on [geojson.io](http://geojson.io) to develop intuition for spatial data.
+We can look at [this example](http://blockbuilder.org/enjalot/9a51c6ef89a3625684bf) to get a relative sense of the "size" of one degree of longitude or latitude.  
 [<img src="https://gist.github.com/enjalot/9a51c6ef89a3625684bf/raw/da78aefb6caca640fbad4432e6c7f2c4ba2cbf0f/thumbnail.png">](http://blockbuilder.org/enjalot/9a51c6ef89a3625684bf)
 
-We will use a set of pre-prepared datasets designed to cover a variety of locations and scales (world-wide
-down to city level) in the workshop so that you don't feel confined to one geographic area
-while practicing. Each data folder contains a README that describes where the
+We will use a collection of datasets curated to cover a variety of locations and scales (world-wide
+down to city-level) in the workshop.  This way, you won't feel confined to one geographic area
+while practicing your new web-mapping skills. Each data folder contains a README that describes where the
 data comes from and how it was processed:
 
 [World data files](data/world)  
@@ -43,16 +43,16 @@ data comes from and how it was processed:
 [USA (SF) data files](data/USA)
 
 We will explore the three basic GeoJSON data types with these files:  
-* Polygons - Administrative boundaries (e.g. countries, states and counties)
+* Polygons - Administrative boundaries like countries, states, and counties
 * Lines - Roads, Routes and Rivers
 * Points - Cities, Subway stations
 
-You can find the commands we used to process and convert the data in each folder.
-If you want to convert your own spatial data you may want to start with
-[Mapshaper](http://www.mapshaper.org/) before getting into command line tools.
+You can find the commands used to process and convert the data in each folder.
+If you want to convert your own spatial data from one file type to another, you may want to start with
+[Mapshaper](http://www.mapshaper.org/) before diving into the world of command line tools like [ogr2ogr](http://www.gdal.org/ogr2ogr.html).
 
 I recommend reading [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
-before the workshop, we will cover the same stuff but its a concise overview and a great reference.
+before the workshop.  It's a concise overview and a great reference.
 
 
 ### Leaflet
