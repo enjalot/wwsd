@@ -12,9 +12,9 @@ to swap in your own data and leverage [hundreds of examples](http://blockbuilder
 
 ## Tools
 
-This workshop will cover the following Javascript libraries, by the end you will have had
-hands-on experience with each one. We will see first-hand which tool is best for the
-job in different situations.
+This workshop will cover a collection of Javascript mapping libraries. By the end, you will gain
+hands-on experience with each library. We will see first-hand which tool is best for the
+job in a variety of different situations.
 
 * [Leaflet](http://leafletjs.com)
 * [Mapbox-gl](https://www.mapbox.com/mapbox-gl-js/examples/)
