@@ -13,7 +13,7 @@ to swap in your own data and leverage [hundreds of examples](http://blockbuilder
 ## Tools
 
 This workshop will cover the following Javascript libraries, by the end you will have had
-hands on experience with each one. We will see first-hand which tool is best for the
+hands-on experience with each one. We will see first-hand which tool is best for the
 job in different situations.
 
 * [Leaflet](http://leafletjs.com)
