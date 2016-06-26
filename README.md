@@ -65,10 +65,10 @@ before the workshop.  It's a concise overview and a great reference.
 ### Mapbox-gl
 
 **[3) Getting started with Mapbox-gl](https://github.com/enjalot/wwsd/issues/3)**  
-[<img src="https://gist.github.com/enjalot/b81e02d752855d106f88a9c0e42e65a0/raw/f897bad8e804af7428c1d4419daca4f13e1cd2d3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/3)
+[<img src="img/example03.png">](https://github.com/enjalot/wwsd/issues/3)
 
 **[4) Basic styling & interaction](https://github.com/enjalot/wwsd/issues/4)**  
-[<img src="https://camo.githubusercontent.com/a0747cb59f501c6e675ccb21d04914a79ca31a38/68747470733a2f2f676973742e6769746875622e636f6d2f656e6a616c6f742f32316335356666313031323239656534366631323265623962643165346237372f7261772f326333646235363337613835373531616236353638636337386634623334636436663365323666322f7468756d626e61696c2e706e67">](https://github.com/enjalot/wwsd/issues/4)
+[<img src="img/example04.png">](https://github.com/enjalot/wwsd/issues/4)
 
 
 # Act II: d3.js
@@ -98,16 +98,16 @@ If you want to understand projections from a fundamental level, checkout this [t
 ## Rendering with d3.js
 
 **[5) SVG Paths](https://github.com/enjalot/wwsd/issues/5)**  
-[<img src="https://gist.githubusercontent.com/enjalot/6c13610b33ed9d3f5b052fa3fc20ba56/raw/95497d048c07a95148b0d629d9dd34362a10c48c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/5)
+[<img src="img/example05.png">](https://github.com/enjalot/wwsd/issues/5)
 
 **[6) Rendering a map with d3 projections](https://github.com/enjalot/wwsd/issues/6)**   
-[<img src="https://gist.githubusercontent.com/enjalot/c069550b4fc4fb409430829f07bd78f2/raw/74dce341847482d9dfd387b2aa6127eab539c3ba/thumbnail.png">](https://github.com/enjalot/wwsd/issues/6)
+[<img src="img/example06.png">](https://github.com/enjalot/wwsd/issues/6)
 
 **[7) Mouse interactions with d3 + SVG](https://github.com/enjalot/wwsd/issues/7)**  
-[<img src="https://gist.github.com/enjalot/b37e8dac613d0a39c5b4c2f0e13e1277/raw/c82cb9e878a20d632ce54700203dfb9070b12998/thumbnail.png">](https://github.com/enjalot/wwsd/issues/7)
+[<img src="img/example07.png">](https://github.com/enjalot/wwsd/issues/7)
 
 **[8) Data lookups](https://github.com/enjalot/wwsd/issues/8)**  
-[<img src="https://gist.github.com/enjalot/f071fe9f332c62cb7bcad13ae5d645d8/raw/9d153c338e5c793107c2bba894c956cd592eee67/thumbnail.png">](https://github.com/enjalot/wwsd/issues/8)
+[<img src="img/example08.png">](https://github.com/enjalot/wwsd/issues/8)
 
 
 
@@ -115,14 +115,14 @@ If you want to understand projections from a fundamental level, checkout this [t
 ### Advanced d3.js usage
 
 **[9) Zooming with d3](https://github.com/enjalot/wwsd/issues/9)**  
-[<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/9)
+[<img src="img/example09.png">](https://github.com/enjalot/wwsd/issues/9)
 
 **[10) Leaflet SVG Overlay](https://github.com/enjalot/wwsd/issues/10)**  
-[<img src="https://gist.githubusercontent.com/enjalot/eaf648eb5fd33a59b3865d8fc4f5eade/raw/4f59de7db1310a2c851c029054fa96b83dbfa495/thumbnail.png">](https://github.com/enjalot/wwsd/issues/10)
+[<img src="img/example10.png">](https://github.com/enjalot/wwsd/issues/10)
 
 **[11) Mapbox-gl SVG Overlay](https://github.com/enjalot/wwsd/issues/11)**
 
-[<img src="https://gist.githubusercontent.com/enjalot/0d87f32a1ccb9a720d29ba74142ba365/raw/231cfdc132d214a7b7830173f33338ef236e6c1c/thumbnail.png">](https://github.com/enjalot/wwsd/issues/11)
+[<img src="img/example11.png">](https://github.com/enjalot/wwsd/issues/11)
 
 
 # Act III: performance
@@ -143,7 +143,7 @@ A couple tools that can be used to orient yourself with TopoJSON files:
 
 
 **[12) Rendering a map with d3 + TopoJSON + SVG](https://github.com/enjalot/wwsd/issues/12)**  
-[<img src="https://gist.githubusercontent.com/enjalot/4a449bee40e7b74108de89e303a2a284/raw/09d140a991f7cbbe507b6d01086c2c6a3c79a90d/thumbnail.png">](https://github.com/enjalot/wwsd/issues/12)
+[<img src="img/example12.png">](https://github.com/enjalot/wwsd/issues/12)
 
 
 
@@ -154,13 +154,13 @@ A couple tools that can be used to orient yourself with TopoJSON files:
 It is possible to render lots of data quicker with canvas than SVG, but it is less convenient for interaction.
 
 **[13) Rendering with d3 + Canvas](https://github.com/enjalot/wwsd/issues/13)**  
-[<img src="https://gist.github.com/enjalot/f6ac38e86de3e7d4cbe109ed601fa6d7/raw/64141ff1ccc42e112fd1f17c713f5d424a7f9a82/thumbnail.png">](https://github.com/enjalot/wwsd/issues/13)
+[<img src="img/example13.png">](https://github.com/enjalot/wwsd/issues/13)
 
 **[14) Zooming with Canvas](https://github.com/enjalot/wwsd/issues/13)**  
-[<img src="https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png">](https://github.com/enjalot/wwsd/issues/14)
+[<img src="img/example14.png">](https://github.com/enjalot/wwsd/issues/14)
 
 **[15) Mapbox-gl Canvas Overlay](https://github.com/enjalot/wwsd/issues/13)**  
-[<img src="https://camo.githubusercontent.com/61b545167b62b6af1c5634be6afff5bb0369ab2c/68747470733a2f2f676973742e6769746875622e636f6d2f656e6a616c6f742f63656636326535313966393439313666363265383531643337386365653034332f7261772f636639366332656238663966323333386165393637346231643266393362636438306664323262362f7468756d626e61696c2e706e67">](https://github.com/enjalot/wwsd/issues/15)
+[<img src="img/example15.png">](https://github.com/enjalot/wwsd/issues/15)
 
 ## turf.js
 
@@ -168,10 +168,10 @@ It is possible to render lots of data quicker with canvas than SVG, but it is le
 It provides many features which can come in handy when dealing with spatial data.
 
 **[16) Measuring areas and lengths]()**  
-[<img src="https://gist.github.com/enjalot/7e1c6eda09fb3c8cb64453a79e760f25/raw/d0006272e088f9a7012fbbd85c6594c47ea9d8e3/thumbnail.png">](https://github.com/enjalot/wwsd/issues/16)
+[<img src="img/example16.png">](https://github.com/enjalot/wwsd/issues/16)
 
 **[17) Buffering and contracting features]()**  
-[<img src="https://gist.github.com/enjalot/397af58276d926193d28b8023b2400f2/raw/53ceb523af4237bb5b464e2475a968c716300545/thumbnail.png">](https://github.com/enjalot/wwsd/issues/17)
+[<img src="img/example17.png">](https://github.com/enjalot/wwsd/issues/17)
 
 # Encore: advanced techniques
 We may not have time to explore these examples in depth, but they should provide
@@ -184,15 +184,18 @@ For example [Circle counties](http://bl.ocks.org/mbostock/4206975),
 Try doing this with the [world populations](http://enjalot.github.io/wwsd/data/world/ne_50m_admin_0_countries.topojson).  
 You can calculate the centroids of each country using d3 or turf.   
 [Example answer](http://blockbuilder.org/eesur/14e16ab00342ea44e46f3fa45a2bbf08)
+[<img src="img/example18.png">](http://blockbuilder.org/eesur/14e16ab00342ea44e46f3fa45a2bbf08)  
 
 **Advanced canvas interaction**   
 [Selecting countries on a canvas globe](http://bl.ocks.org/syntagmatic/6645345)  
+[<img src="img/example19.png">](http://bl.ocks.org/syntagmatic/6645345)  
 
 **Clipping**  
 [Clipping geometry data](http://blockbuilder.org/mbostock/6301872)  
 [Clipping raster tiles](http://bl.ocks.org/enjalot/985de8fcd65d37583949edbf280f2632)  
+[<img src="img/example20.png">](http://bl.ocks.org/enjalot/985de8fcd65d37583949edbf280f2632)  
 
 **Animated paths**  
 [Timer & Mapbox-gl](http://bl.ocks.org/enjalot/4ff31e96860f38d4fd58)  
-[Transitions & Canvas](http://blockbuilder.org/rveciana/502db152b70cddfd554e9d48ee23e279)
+[Transitions & Canvas](http://blockbuilder.org/rveciana/502db152b70cddfd554e9d48ee23e279)  
 [Point-along-path & SVG](http://blockbuilder.org/wboykinm/5689397a1236ec79c0e94a162bd4d566)
