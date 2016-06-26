@@ -57,10 +57,10 @@ before the workshop.  It's a concise overview and a great reference.
 
 ### Leaflet
 **[1) Getting started with Leaflet](https://github.com/enjalot/wwsd/issues/1)**  
-[<img src="https://gist.github.com/enjalot/208dd99b6ed6a424513524d963880700/raw/c026672c7dc702708f1d5a5ef5097da2e336dc20/thumbnail.png">](https://github.com/enjalot/wwsd/issues/1)
+[<img src="img/example01.png">](https://github.com/enjalot/wwsd/issues/1)
 
 **[2) Basic styling & interaction](https://github.com/enjalot/wwsd/issues/2)**  
-[<img src="https://gist.githubusercontent.com/enjalot/0c8028933d402fb4823a5b0067b12a56/raw/2f8a6bb6ffd901059f95565f74175237a25d70fe/thumbnail.png">](https://github.com/enjalot/wwsd/issues/2)
+[<img src="img/example02.png">](https://github.com/enjalot/wwsd/issues/2)
 
 ### Mapbox-gl
 
