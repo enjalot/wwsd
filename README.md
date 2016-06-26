@@ -201,7 +201,7 @@ You can calculate the centroids of each country using d3 or turf.
 
 **Quadtrees**  
 [<img src="img/example22.png">](http://blockbuilder.org/enjalot/534c925aa109f526d37937dcfda58fc4)  
-[<img src="img/example22a.png">](http://blockbuilder.org/enjalot/534c925aa109f526d37937dcfda58fc4)   
+[<img src="img/example23.png">](http://blockbuilder.org/enjalot/534c925aa109f526d37937dcfda58fc4)   
 
 **Animated paths**  
 [Timer & Mapbox-gl](http://bl.ocks.org/enjalot/4ff31e96860f38d4fd58)  
