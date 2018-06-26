@@ -19,7 +19,7 @@ make shp/us/streams-unmerged.shp
 # grab california's [region](http://www.horizon-systems.com/nhdplus/NHDPlusV2_data.php) and convert to GeoJSON
 ogr2ogr -f GeoJSON topo/us-streams-unmerged-18.geojson shp/us/streams-unmerged.shp -where Region=18
 # convert the geojson to topojson (this fails due to lack of memory if tried on the entire country)
-topojson -o topo/us-streams-unmerged-18.topojson -p Name --no-pre-quantization --post-quantization=1e6 --simplify=7e-7 topo/us-streams-unmerged-18.geojson
+geo2topo -o topo/us-streams-unmerged-18.topojson -p Name --no-pre-quantization --post-quantization=1e6 --simplify=7e-7 topo/us-streams-unmerged-18.geojson
 ```
 
 ## SF Election Precincts
