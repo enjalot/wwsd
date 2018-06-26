@@ -11,7 +11,7 @@ wget https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_admin_0_cou
 ```
 convert the geojson to topojson (with simplification) and preserve a couple key properties
 ```shell
-topojson -s 1e-6 ne_50m_admin_0_countries.geojson -p name -p pop_est -p continent -o ne_50m_admin_0_countries.topojson
+geo2topo -s 1e-6 ne_50m_admin_0_countries.geojson -p name -p pop_est -p continent -o ne_50m_admin_0_countries.topojson
 ```
 
 ## Populated Places Simple (Cities)
@@ -25,7 +25,7 @@ wget https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_populated_p
 ```
 convert the geojson to topojson and preserve only a couple key properties
 ```shell
-topojson ne_50m_populated_places_simple.geojson -p name -p adm0name -o ne_50m_populated_places_simple.topojson
+geo2topo ne_50m_populated_places_simple.geojson -p name -p adm0name -o ne_50m_populated_places_simple.topojson
 ```
 
 ## Rivers & Lake centerlines
@@ -39,7 +39,7 @@ wget https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_rivers_lake
 ```
 convert the geojson to topojson and preserve only a couple key properties
 ```shell
-topojson -s 1e-6 ne_50m_rivers_lake_centerlines.geojson -p name -p dissolve -p featureclass -o ne_50m_rivers_lake_centerlines.topojson
+geo2topo -s 1e-6 ne_50m_rivers_lake_centerlines.geojson -p name -p dissolve -p featureclass -o ne_50m_rivers_lake_centerlines.topojson
 ```
 
 ## File sizes
