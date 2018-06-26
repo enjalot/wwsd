@@ -30,7 +30,7 @@ Source: https://github.com/oobrien/vis [specifically](https://github.com/oobrien
 Download the geojson file from the link and rename to `london_tube.geojson`.
 convert the geojson to topojson and preserve only a couple key properties:
 ```shell
-topojson london_tube.geojson -p id -p lines -o london_tube.topojson
+geo2topo london_tube.geojson -p id -p lines -o london_tube.topojson
 ```
 
 
@@ -38,11 +38,11 @@ topojson london_tube.geojson -p id -p lines -o london_tube.topojson
 Type: Point  
 Source: https://github.com/oobrien/vis [specifically](https://github.com/oobrien/vis/blob/master/tube/data/tfl_stations.json)  
 
-[GeoJSON](london_tube.geojson)  
-[TopoJSON](london_tube.topojson)  
+[GeoJSON](london_stations.geojson)  
+[TopoJSON](london_stations.topojson)  
 
 Download the geojson file from the link and rename to `london_tube.geojson`.  
 convert the geojson to topojson and preserve only a couple key properties:  
 ```shell
-topojson london_stations.geojson -p id -p name -p lines -o london_stations.topojson
+geo2topo london_stations.geojson -p id -p name -p lines -o london_stations.topojson
 ```
